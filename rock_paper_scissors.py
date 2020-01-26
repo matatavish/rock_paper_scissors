@@ -31,10 +31,3 @@ while player_choice == False:
 
     player_choice = False
     comp_choice = options[randint(0, 2)]
-
-
-
-
-
-
-
